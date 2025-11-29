@@ -29,7 +29,3 @@ pip install -r requirements.txt
 2.  Install the dependencies as shown above.
 3.  Open the notebook `Gemma_3_270_M_Small_Language_Model_Scratch_Final.ipynb` in Jupyter Notebook or Google Colab.
 4.  Run the cells sequentially to build and train the model.
-
-## Credits
-
-This project is presented by Vizuara.
